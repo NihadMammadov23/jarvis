@@ -1,5 +1,5 @@
 # Jarvis AI Assistant  
-*Your personal AI-powered voice assistant.*
+![Jarvis Banner](https://github.com/NihadMammadov23/jarvis/blob/main/jarvis.png)  
 
 ---
 
